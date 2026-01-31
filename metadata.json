@@ -1,0 +1,9 @@
+
+{
+  "name": "AI农险助手 - 天空地三位一体协同系统",
+  "description": "融合卫星遥感、无人机测绘与地基AI定损的智能农业保险综合解决方案，提供精准产量预测、高精度实时勘损与专家视频会诊。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
